@@ -1,6 +1,6 @@
 {"log": ["*"],"databases": {"getting-started-db": {
       "server": "http://localhost:32978",
-      "bucket": "getting-started-bucket",
+      "bucket": "stagging",
       "username": "sync_gateway",
       "password": "instranet",
       "enable_shared_bucket_access": true,
